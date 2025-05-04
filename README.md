@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction
+# House Price Prediction
 
 This is an end-to-end machine learning project using the **California Housing Dataset** to predict median house prices.
 
 ---
 
-## 📊 Project Features
+## Project Features
 
 - Data loading and exploration (EDA)
 - Data preprocessing and feature scaling
@@ -16,7 +16,7 @@ This is an end-to-end machine learning project using the **California Housing Da
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -26,7 +26,7 @@ This is an end-to-end machine learning project using the **California Housing Da
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 house-price-prediction/
@@ -41,7 +41,7 @@ house-price-prediction/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository:
 ```bash
@@ -61,7 +61,7 @@ jupyter notebook notebooks/house_price_prediction.ipynb
 
 ---
 
-## 📈 Sample Results
+## Sample Results
 
 | Model            | RMSE     | R² Score |
 |------------------|----------|----------|
@@ -70,6 +70,6 @@ jupyter notebook notebooks/house_price_prediction.ipynb
 
 ---
 
-## 📎 License
+## License
 
 This project is licensed under the MIT License.
